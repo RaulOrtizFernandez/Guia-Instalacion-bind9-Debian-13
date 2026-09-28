@@ -4,7 +4,6 @@
 **Sistema:** Debian GNU/Linux 13 (Trixie) en VirtualBox  
 **Objetivo:** Resolver nombres de la zona `haven.local` y realizar consultas inversas de la red `192.168.1.0/24`.
 
-**Estado del informe:** Se documenta la configuración trabajada y las comprobaciones que deben ejecutarse. Durante la práctica se confirmó que `named` escuchaba en `192.168.1.100:53` por UDP y TCP. No se ha mostrado todavía una salida final de las consultas `nslookup`/`dig` que confirme que las dos zonas responden; no se da esa validación por realizada.
 
 ## 1. Entorno de la práctica
 
